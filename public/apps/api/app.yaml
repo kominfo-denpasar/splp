@@ -1,0 +1,6 @@
+version: 0.3.0
+description: 'ReDoc app to generate OpenAPI/Swagger documentation'
+screenshot: 'https://www.fusio-project.org/media/apps/redoc.png'
+website: 'https://github.com/apioo/fusio-apps-redoc'
+downloadUrl: 'https://github.com/apioo/fusio-apps-redoc/archive/v0.3.0.zip'
+sha1Hash: 9945927a02ed890677bd8585367efdecb486b70d
